@@ -166,5 +166,5 @@ Printing the shortest path
 print(get_shortest_path(4, 0))
 ```
 
-Group members: Kondury Rishabh , Bhavesh Ajwani
+Authors: Kondury Rishabh , Bhavesh Ajwani
 
